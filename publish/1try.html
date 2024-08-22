@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+
+<h2>訂單確認</h2>
+  
+<script>
+  //訂單確認
+  //新注釋
+  //輸入
+  let price = +prompt('請輸入商品價格')
+  let num = +prompt('請輸入商品數量')
+  let address = +prompt('請輸入收貨地址')
+  //計算
+  let total = price * num
+  //渲染
+  document.write(`
+    <table>
+    <tr>
+      <th>商品</th>
+      <th>價格</th>
+      <th>數量</th>
+      <th>總價</th>
+      <th>收貨地址</th>
+    </tr>
+    <tr>
+      <td>PLUS</td>
+      <td>${price}元</td>
+      <td>${num}</td>
+      <td>$${total}元</td>
+      <td>${address}</td>
+    </tr>
+  </table>
+  `)
+
+
+  // document.write('我是div')
+  // let aaa = prompt('輸入年齡')
+  // let num = 20
+  // let name = '小偷'
+  // console.log(name)
+  // console.log(aaa)
+
+//   let num1 = 10
+//   let num2 = 20
+//   let temp
+
+//   temp = num1
+//   num1 = num2
+//   num2 = temp
+// console.log(num1,num2);
+  // let age = 25
+  // document.write('我今年'+ age + '嵗了')
+  // document.write(`不對是${age}`)
+  // let un
+  // console.log(typeof un)
+  // let obj = null
+  // console.log(typeof obj)
+  // console.log(2+'2')
+  // console.log(2-'2')
+  // let num = prompt('輸入')
+  // console.log(Number(num))
+
+
+</script>
+
+</body>
+</html>
