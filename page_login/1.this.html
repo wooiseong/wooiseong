@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>確認this值</h1>
+  <h2>修改後的版本</h2>
+  <script>
+    
+    // 'use strict'
+    // console.log(this)
+    
+    // function func() {
+    //   'use strict'
+    //   console.log(this)
+    // }
+    // func()
+
+    // const food = {
+    //   name: '豬豬',
+    //   eat() {
+    //     'use strict'
+    //     console.log(this)
+        
+    //   }
+    // }
+    // food.eat()
+    //call
+    // function func(numA, numB) {
+    //   console.log(this)
+    //   console.log(numA, numB)
+    // }  
+    // const person = {
+    //     name: 'theima'
+    // }
+    
+    // func.call(person,1,2)
+
+    // //apply
+    // func.apply(person, [3,5,7])    
+    
+    // //bind
+    // const bindfunc = func.bind(person, 666)
+    // bindfunc(777)
+
+    //箭頭函數
+
+    //1. 手寫call
+
+    // Function.prototype.myCall = function(thisArg, ...args) {
+    //   // console.log('111')
+    //   thisArg.f = this
+    //   const res = thisArg.f(...args) 
+    //   delete thisArg.f
+    //   return res
+    // }
+
+    // const person = {
+    //     name: 'theima'
+    // }
+    // function func(numA, numB) {
+    //   console.log(this)
+    //   console.log(numA, numB)
+    //   return numA + numB
+    // }  
+    // const res = func.myCall(person,2,8)
+    // console.log(res)
+    
+    // Function.prototype.supercall = function(x,...y){
+    //   const key = Symbol('key')
+    //   x[key] = this
+    //   const res = x[key](...y)
+    //   delete x[key]
+    //   return res
+    // }
+
+
+    // const food = {
+    //   name: '花椰菜'
+    // }
+    // function func2(numA,numB,numC) {
+    //   console.log(this)
+    //   console.log(numA, numB, numC)
+    //   return numA + numB + numC
+      
+    // }
+
+    // const res = func2.supercall(food,1,2,3)
+    // console.log(res)
+
+    //2.手寫apply
+    // Function.prototype.myApply = function (arrObj, arr) {
+    //   const key = Symbol('key')
+    //   arrObj[key] = this
+    //   const res = arrObj[key](...arr)
+    //   delete arrObj[key]
+    //   return res
+    // }
+
+    // const person = {
+    //     name: 'theima'
+    // }
+    // function func(numA,numB) {
+    //   console.log(this)
+    //   console.log(numA,numB)
+    //   return numA + numB
+    // }  
+    // const res = func.myApply(person,[2,4])
+    // console.log(res)
+
+    // 3. 手寫bind
+    Function.prototype.myBind = function (thisArg,...args) {
+      return (...args2) => {
+        return this.call(thisArg, ...args, ...args2)
+      } 
+    }
+
+
+    const person = {
+      name: 'itheimaaaa'
+    }
+
+    function func(numA, numB, numC, numD) {
+      console.log(this)
+      console.log(numA, numB, numC, numD)
+      return numA + numB + numC + numD
+    }
+
+    const bindFunc = func.myBind(person,1,2)
+
+    const res = bindFunc(3,4)
+    console.log(res)
+    
+  </script>
+</body>
+</html>
