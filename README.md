@@ -1,5 +1,5 @@
-## Hi I am wooi seong :sunglasses:
-![image](https://i.ibb.co/WVH4Q40/2024-12-19-195257.png)
+# Hi I am wooi seong :sunglasses:
+![image](https://i.ibb.co/8xT05gt/2024-12-19-195343.png)
 
 # About
 
