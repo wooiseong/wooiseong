@@ -11,7 +11,9 @@ Click here to know more about me! :point_right:
 <a href="https://portfolio-project-vercel-mocha.vercel.app/">portfolio</a>
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooiseong&theme=vue-dark&line_height=22&layout=compact&hide=less" />
+<p align="center">
+  <img src="https://getusetprofile.vercel.app/api?username=wooiseong&theme=vue-dark&show_icons=true&count_private=true&hide_title=true" />
+</p>
 
 ## Languages
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooiseong&theme=tokyonight" />
