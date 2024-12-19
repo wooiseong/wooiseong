@@ -21,7 +21,7 @@ Front-end<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,sass,less)](https://skillicons.dev)
 
 Back-end<br>
-[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql)](https://skillicons.dev)
 
 Others<br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,webpack,vite,vercel,ps)](https://skillicons.dev)
