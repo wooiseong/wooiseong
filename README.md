@@ -32,7 +32,7 @@ Others<br>
 * <a href="https://github.com/wooiseong/KSH-project-origin-webpack">KSH.hostel</a><br><p></p>
 <img src="https://i.ibb.co/1Xyx46B/1-header-before-Login.png" width="500" height="250"><br><br>
 * <a href="https://github.com/wooiseong/sleepPower-project">sleepPower</a><br><p></p>
-<img src="https://i.ibb.co/2ndnpbF/1.png" width="500" height="250">
+<img src="https://i.ibb.co/2ndnpbF/1.png" width="500" height="250"><br><br>
 
 
 
