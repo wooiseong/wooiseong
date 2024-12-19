@@ -11,9 +11,7 @@ Click here to know more about me! :point_right:
 <a href="https://portfolio-project-vercel-mocha.vercel.app/">portfolio</a>
 
 ## Languages
-<p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooiseong&theme=tokyonight" />
-</p>
 
 
 ## Skills
