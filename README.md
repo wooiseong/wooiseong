@@ -12,7 +12,7 @@ Click here to know more about me! :point_right:
 
 ## Languages
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooiseong&theme=tokyonight" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooiseong&layout=compact&hide=html&theme=vue-dark" />
 </p>
 
 
