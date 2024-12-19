@@ -35,5 +35,5 @@ Others<br>
 <img src="https://i.ibb.co/2ndnpbF/1.png" width="500" height="250"><br><br>
 
 ## Contact
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail&theme=light)](https://skillicons.dev)
 
