@@ -1,16 +1,16 @@
 ![image](https://i.ibb.co/8xT05gt/2024-12-19-195343.png)
 
-# Hi I am wooi seong :sunglasses:
+# Hi I am Wooi Seong :sunglasses:
 
-# About
+## About
 
-# Languages
+## Languages
 
-# Skills
+## Skills
 
-# Projects
+## Projects
 
-# Contact
+## Contact
 <!--
 **wooiseong/wooiseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
