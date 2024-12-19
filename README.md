@@ -16,8 +16,13 @@ Click here to know more about me! :point_right:
 ## Languages
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooiseong&theme=tokyonight" />
 
-
 ## Skills
+Front-end
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,sass,less)](https://skillicons.dev)
+
+Back-end
+
+Others
 
 ## Projects
 
