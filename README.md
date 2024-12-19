@@ -14,8 +14,8 @@ Click here to know more about me! :point_right:
   <img src="https://getusetprofile.vercel.app/api?username=wooiseong&theme=vue-dark&show_icons=true&count_private=true&hide_title=true" />
 
 ## Languages
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooiseong&theme=tokyonight" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooiseong&theme=tokyonight" />
+  
 ## Skills
 Front-end<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,sass,less)](https://portfolio-project-vercel-mocha.vercel.app/)
@@ -28,7 +28,8 @@ Others<br>
 
 ## Projects
 <img src="https://i.ibb.co/42rLqHx/1-carousel.png">
-
+<img src="https://i.ibb.co/1Xyx46B/1-header-before-Login.png">
+<img src="https://i.ibb.co/2ndnpbF/1.png">
 
 ## Contact
 
