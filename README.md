@@ -10,6 +10,9 @@ I am a Malaysian with interest in Front-end Engineering. After I graduated from 
 Click here to know more about me! :point_right: 
 <a href="https://portfolio-project-vercel-mocha.vercel.app/">portfolio</a>
 
+## Github Stats
+<img width=”100%” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=wooiseong&theme=vue-dark&line_height=22&layout=compact&hide=less" />
+
 ## Languages
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooiseong&theme=tokyonight" />
 
