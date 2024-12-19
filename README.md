@@ -27,11 +27,11 @@ Others<br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,webpack,vite,vercel,ps)](https://portfolio-project-vercel-mocha.vercel.app/)
 
 ## Projects
-<a href="https://github.com/wooiseong/portfolio-project-vercel">portfolio</a><br>
+* <a href="https://github.com/wooiseong/portfolio-project-vercel">portfolio</a><br><p></p>
 <img src="https://i.ibb.co/42rLqHx/1-carousel.png" width="500" height="250"><br><br>
-<a href="https://github.com/wooiseong/KSH-project-origin-webpack">KSH.hostel</a><br>
+* <a href="https://github.com/wooiseong/KSH-project-origin-webpack">KSH.hostel</a><br><p></p>
 <img src="https://i.ibb.co/1Xyx46B/1-header-before-Login.png" width="500" height="250"><br><br>
-<a href="https://github.com/wooiseong/sleepPower-project">sleepPower</a><br>
+* <a href="https://github.com/wooiseong/sleepPower-project">sleepPower</a><br><p></p>
 <img src="https://i.ibb.co/2ndnpbF/1.png" width="500" height="250">
 
 
