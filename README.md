@@ -14,7 +14,7 @@ Click here to know more about me! :point_right:
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooiseong&theme=tokyonight" />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooiseong&theme=tokyonight)
+
 
 ## Skills
 
