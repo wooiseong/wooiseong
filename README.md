@@ -35,8 +35,6 @@ Others<br>
 <img src="https://i.ibb.co/2ndnpbF/1.png" width="500" height="250"><br><br>
 
 ## Contact
-<a href="tel:+886-2-3278918">327-8918</a>
-* <a href="tel:+886-9-33227002">Handphone: +886933227002</a>
-* <a href= "mailto:wooiseongseong96@gmail.com">Email: wooiseongseong96@gmail.com</a>
-* <a href="https://www.linkedin.com/in/%E5%81%89%E9%9B%84-%E5%BC%B5-74219b193/">LinkedIn: Chang Wooi Seong</a>
+* <a href= "mailto:wooiseongseong96@gmail.com">Email:  &nbsp;wooiseongseong96@gmail.com</a>
+* <a href="https://www.linkedin.com/in/%E5%81%89%E9%9B%84-%E5%BC%B5-74219b193/">LinkedIn:  &nbsp;Chang Wooi Seong</a>
 
