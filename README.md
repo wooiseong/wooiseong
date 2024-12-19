@@ -27,6 +27,8 @@ Others<br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,webpack,vite,vercel,ps)](https://portfolio-project-vercel-mocha.vercel.app/)
 
 ## Projects
+<img src="https://i.ibb.co/42rLqHx/1-carousel.png">
+
 
 ## Contact
 
