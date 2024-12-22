@@ -18,10 +18,10 @@ Click here to know more about me! :point_right:
   
 ## Skills
 Front-end<br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,sass,less)](https://portfolio-project-vercel-mocha.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,sass,less)]
 
 Back-end<br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql)](https://portfolio-project-vercel-mocha.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql)]
 
 Others<br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,webpack,vite,vercel,ps)](https://portfolio-project-vercel-mocha.vercel.app/)
