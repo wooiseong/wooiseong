@@ -7,8 +7,8 @@ I am a Malaysian with interest in Frontend Engineering. After I graduated from C
 - 🌱 I’m currently learning Front-end skills, including CSS, Javascript, Vue, RESTful API, webpack and git.
 - 👯 I’m preparing myself to work as a passionate junior Front-end Engineer and explore more on web applications.
 
-Click here to know more about me! :point_right: 
-<a href="https://portfolio-project-vercel-mocha.vercel.app/">portfolio</a>
+Click here to view my resume! :point_right: 
+<a href="https://drive.google.com/file/d/1HBbhQ_P35_rMKqNUCj9ase1lBpzm4rSR/view?usp=drive_link">resume</a>
 
 ## Github Stats
   <img src="https://getusetprofile.vercel.app/api?username=wooiseong&theme=vue-dark&show_icons=true&count_private=true&hide_title=true" />
