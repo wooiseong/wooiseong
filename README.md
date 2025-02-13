@@ -12,7 +12,7 @@ Click here to view my resume! :point_right:
 
 and...
 
-my personal notebook : <a href="https://notebook-olive.vercel.app/">notebook</a>
+my personal blog : <a href="https://notebook-olive.vercel.app/">blog</a>
 
 ## Github Stats
   <img src="https://getusetprofile.vercel.app/api?username=wooiseong&theme=vue-dark&show_icons=true&count_private=true&hide_title=true" />
