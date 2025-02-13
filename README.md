@@ -10,6 +10,10 @@ I am a Malaysian with interest in Frontend Engineering. After I graduated from C
 Click here to view my resume! :point_right: 
 <a href="https://drive.google.com/file/d/1HBbhQ_P35_rMKqNUCj9ase1lBpzm4rSR/view?usp=drive_link">resume</a>
 
+and...
+
+my personal notebook : <a href="https://notebook-olive.vercel.app/">notebook</a>
+
 ## Github Stats
   <img src="https://getusetprofile.vercel.app/api?username=wooiseong&theme=vue-dark&show_icons=true&count_private=true&hide_title=true" />
 
