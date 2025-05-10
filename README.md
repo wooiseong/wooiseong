@@ -8,7 +8,7 @@ I am a Malaysian with interest in Frontend Engineering. After I graduated from C
 - 👯 I’m preparing myself to work as a passionate junior Front-end Engineer and explore more on web applications.
 
 Click here to view my resume! :point_right: 
-<a href="https://drive.google.com/file/d/1HBbhQ_P35_rMKqNUCj9ase1lBpzm4rSR/view?usp=drive_link">resume</a>
+<a href="https://drive.google.com/file/d/1_CHWVgB1zuE4VzuRoq9129pBRaXyWfeQ/view?usp=sharing">resume</a>
 
 and...
 
